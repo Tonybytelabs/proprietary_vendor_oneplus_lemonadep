@@ -1758,5 +1758,11 @@
   "Type": "Byte",
   "Count": "1",
   "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.feature.video.120fps.camera.main.only.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
 }
 ]
